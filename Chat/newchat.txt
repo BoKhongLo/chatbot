@@ -1,0 +1,4 @@
+You: xin chao
+
+Bot: Xin chào! Bạn cần giúp đỡ gì ạ?
+
